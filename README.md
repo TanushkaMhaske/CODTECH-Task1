@@ -6,7 +6,7 @@
 <h4>Duration: October to November 2024</h4>
 <h4>Project : Data Processing of AI</h4>
 
-<h4>The Output of the following program is:</h4>
+<h5>The Output of the following program is:</h5>
 <h2>              precision    recall  f1-score   support
 
            0       1.00      1.00      1.00        19
